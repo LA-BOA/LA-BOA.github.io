@@ -1,0 +1,12 @@
+
+http://LA-BOA.github.io/archiv
+http://LA-BOA.github.io/atom.xml
+http://LA-BOA.github.io/blog
+http://LA-BOA.github.io/
+http://LA-BOA.github.io/info
+http://LA-BOA.github.io/links
+http://LA-BOA.github.io/performance
+http://LA-BOA.github.io/posts
+http://LA-BOA.github.io/rss.xml
+http://LA-BOA.github.io/sitemap.txt
+http://LA-BOA.github.io/tags

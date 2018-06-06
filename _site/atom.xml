@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>laboa</title>
+ <link href="http://LA-BOA.github.io/" rel="self"/>
+ <link href="http://LA-BOA.github.io"/>
+ <updated>2018-06-06T23:04:52+02:00</updated>
+ <id>http://LA-BOA.github.io</id>
+ <author>
+   <name>laboa</name>
+   <email>onceasure@gmail.com</email>
+ </author>
+
+ 
+ 
+</feed>
